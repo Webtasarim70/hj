@@ -1,4 +1,11 @@
-
+---
+layout: post
+title: Bir varmış bir yokmuş
+description: >
+  A page showing how regular markdown content is styled in Hydejack.
+image: /assets/img/blog/example-content-ii.jpg
+canonical_url: https://pages-themes.github.io/architect/
+---
 
 
 
@@ -62,6 +69,6 @@ Tasarıyla, adi ortaklıkların sermaye şirketine dönüşmesi işlemleri katma
 Kişisel düşüncem, mevcut düzenleme çerçevesinde adi ortaklıkların sermaye şirketine dönüşmesi işlemleri zaten KDV’den istisna. Adi ortaklıklar ferdi işletme niteliğinde. Ferdi işletmelerin sermaye şirketlerine dönüşmesi işlemleri de KDV’den istisna. Gelir Vergisi Kanunu’nun 81. maddesinde, “ferdi işletmenin sahip veya sahipleri” ifadesi geçiyor. Birden fazla sahibi olan işletme adi ortaklıktan başkası değil. Bu niteliğiyle bu işletmelerin sermaye şirketine dönüşmesi işlemleri vergiden istisna. Bu anlamda tasarıyla yapılmak istenen düzenlemenin gereksiz olduğunu ve daha önce yapılan bu tür işlemler için gereksiz tereddüt ve risk yarattığını düşünüyorum.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5NzAyMDczLC05MDUyNDM5MDMsLTE4OD
+eyJoaXN0b3J5IjpbODA5ODAwMTM4LC05MDUyNDM5MDMsLTE4OD
 cyMjg2Nl19
 -->
