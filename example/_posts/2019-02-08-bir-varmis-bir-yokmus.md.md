@@ -2,7 +2,7 @@
 layout: post
 title: Bir varmış bir yokmuş
 description: >
-  A page showing how regular markdown content is styled in Hydejack.
+  Deneme Amaçlı olarak yazılmış yayınlanmış bir yazıdır.
 image: http://www.ogsmm.com/uploads/images/ye%C5%9Fil%20elma%20damla.jpg
 canonical_url: https://pages-themes.github.io/architect/
 ---
@@ -13,6 +13,8 @@ canonical_url: https://pages-themes.github.io/architect/
 
 ![enter image description here](https://i.dunya.com/2/144/144//files/author/106.png?v=1521730804)
 [kaynak:](https://www.dunya.com/kose-yazisi/fazlasiyla-eksigiyle-kdv-yasa-tasarisi-1/407462)
+
+## Fazlasıyla eksiğiyle 
 Katma Değer Vergisi Kanunu’nda değişiklikler yapılmasını öngören tasarı TBMM Plan ve Bütçe Komisyonu'nda görüşülmeye başlandı. Yirmi beş maddeden oluşan tasarı önemli düzenlemeler içeriyor. Sadece devreden katma değer vergisinin iadesi düzenlemesi bile gerçek bir reform niteliğinde. Tasarı, bu düzenleme yanında, birçok sorunu gideren, yatırımı ve üretimi destekleyen, gönüllü uyuma katkı yapan, katma değer vergisinin daha sağlıklı işlemesini sağlayacak düzenlemeler içeriyor. Eksikleri olabilir belki ama geneli itibariyle beklentileri fazlasıyla karşılıyor.
 
 **Devreden KDV’nin iadesi olanaklı hale getiriliyor**
@@ -69,6 +71,6 @@ Tasarıyla, adi ortaklıkların sermaye şirketine dönüşmesi işlemleri katma
 Kişisel düşüncem, mevcut düzenleme çerçevesinde adi ortaklıkların sermaye şirketine dönüşmesi işlemleri zaten KDV’den istisna. Adi ortaklıklar ferdi işletme niteliğinde. Ferdi işletmelerin sermaye şirketlerine dönüşmesi işlemleri de KDV’den istisna. Gelir Vergisi Kanunu’nun 81. maddesinde, “ferdi işletmenin sahip veya sahipleri” ifadesi geçiyor. Birden fazla sahibi olan işletme adi ortaklıktan başkası değil. Bu niteliğiyle bu işletmelerin sermaye şirketine dönüşmesi işlemleri vergiden istisna. Bu anlamda tasarıyla yapılmak istenen düzenlemenin gereksiz olduğunu ve daha önce yapılan bu tür işlemler için gereksiz tereddüt ve risk yarattığını düşünüyorum.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3ODg1NzgxLDgwOTgwMDEzOCwtOTA1Mj
-QzOTAzLC0xODg3MjI4NjZdfQ==
+eyJoaXN0b3J5IjpbNjcwNDM1NDUsODM3ODg1NzgxLDgwOTgwMD
+EzOCwtOTA1MjQzOTAzLC0xODg3MjI4NjZdfQ==
 -->
