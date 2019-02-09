@@ -1,0 +1,75 @@
+---
+layout: post
+title: Bir varmış bir yokmuş
+description: >
+  Deneme Amaçlı olarak yazılmış yayınlanmış bir yazıdır.
+image: http://www.ogsmm.com/uploads/images/ye%C5%9Fil%20elma%20damla.jpg
+canonical_url: https://pages-themes.github.io/architect/
+---
+
+
+
+# bir varmış bir yokmuş
+
+![enter image description here](https://i.dunya.com/2/144/144//files/author/106.png?v=1521730804)
+[kaynak:](https://www.dunya.com/kose-yazisi/fazlasiyla-eksigiyle-kdv-yasa-tasarisi-1/407462)
+
+## Fazlasıyla eksiğiyle KDV yasa Tasarısı
+Katma Değer Vergisi Kanunu’nda değişiklikler yapılmasını öngören tasarı TBMM Plan ve Bütçe Komisyonu'nda görüşülmeye başlandı. Yirmi beş maddeden oluşan tasarı önemli düzenlemeler içeriyor. Sadece devreden katma değer vergisinin iadesi düzenlemesi bile gerçek bir reform niteliğinde. Tasarı, bu düzenleme yanında, birçok sorunu gideren, yatırımı ve üretimi destekleyen, gönüllü uyuma katkı yapan, katma değer vergisinin daha sağlıklı işlemesini sağlayacak düzenlemeler içeriyor. Eksikleri olabilir belki ama geneli itibariyle beklentileri fazlasıyla karşılıyor.
+
+**Devreden KDV’nin iadesi olanaklı hale getiriliyor**
+
+Tasarıda özetle;
+
+- 2019 yılı başından itibaren, oniki aylık sürede indirim konusu yapılamayan KDV’nin, izleyen altı ay içinde talep edilmesi halinde iade edilmesi,
+
+- 2018 sonu itibariyle devreden KDV’nin Maliye Bakanlığı'nca belirlenecek takvim ve esaslar çerçevesinde iadesi veya gider yazılması,  
+öngörülüyor.
+
+Tasarının en önemli düzenlemesi. Düzenleme basit, ancak uygulaması zor ve muhtemelen kısa sayılmayacak bir süreci gerektiriyor. Bu nedenle uygulamaya ilişkin Bakanlar Kurulu'na ve Maliye Bakanlığı'na geniş yetkiler veriliyor. Bu yetkilerin kullanılışını ve uygulamayı zamanla göreceğiz.
+
+**KDV indiriminde takvim yılı sınırı uzatılıyor**
+
+Mevcut düzenleme çerçevesinde, istisnai durumlar hariç, yüklenilen katma değer vergisi, vergiyi doğuran olayın meydana geldiği takvim yılında indirim konusu yapılabiliyor.
+
+Tasarıyla indirimin, vergiyi doğuran olayın meydana geldiği yılı izleyen yılda da yapılabilmesine olanak sağlanıyor.
+
+Böylece, geç gelen faturalarda yer alan verginin indiriminde yaşanan sorunlar giderildiği gibi, vergiyi doğuran olayın ne zaman meydana geldiğinin tartışıldığı işlemler nedeniyle yüklenilen verginin indirimindeki sorunlar da ortadan kaldırılıyor, KDV sisteminin temel ilkelerinden olan mahsup sisteminin daha sağlıklı çalışması sağlanıyor.
+
+Düzenleme genel anlamda yeterli ve ihtiyaçları büyük ölçüde karşılayabilir. İndirimde yıl sınırı olmaması belki daha doğru olabilirdi. Özellikle zamanaşımı dikkate alınarak bazı önlemler alınıp, herhangi bir yıl sınır olmadan indirime izin verilebilirdi. Böylece, sonradan yapılan tarhiyatlar nedeniyle ödenen vergiler başta olmak üzere yoruma dayalı olarak yapılan indirimlerdeki sorunlar da tamamen ortadan kaldırılabilirdi. Ancak bu haliyle de düzenleme önerisi büyük ölçüde yeterli.
+
+**KDV’de konsolidasyona izin veriliyor**
+
+KDV uygulamasında grup konsolidasyonunun yolu açılıyor. Tasarıyla;  
+- Tercihe bağlı olarak,  
+- En az %50 ortağı olunan kurumlar vergisi mükellefleriyle birlikte,  
+- Talepte bulunan kurum nezdinde,  
+- Grup KDV mükellefiyeti tesis ettirilebilmesi,  
+konusunda Maliye Bakanlığı'na yetki veriliyor.
+
+Bakanlığın bu yetkiyi kullanması durumunda, tercihe bağlı olarak grup konsolide KDV beyannamesi verilebilecek, gruba dahil mükelleflerin toplam hesaplanan vergisinden toplam yüklenilen vergisi mahsup edilebilecek ve verginin finansman yükü ortadan kaldırılabilecek.  
+Tasarıda, en az %50 oranında ortağı olunan kurumlarla birlikte grup konsolidasyonu öngörülüyor. Bakanlığa dolaylı ortaklıkları da konsolidasyon kapsamına alma yetkisi veriliyor. Bu yetki kullanılmazsa, düzenlemenin kapsamı oldukça daraltacağı söylenebilir. Bu çerçevede örneğin, paylarının tamamı bir gerçek kişiye veya aileye ya da yurt dışındaki bir kuruma ait Türkiye’de faaliyette bulunan birden fazla kurumun, grup konsolidasyonu kapsamına giremeyeceği görülüyor.
+
+Düzenleme son derece olumlu. Önemli bir eksiklik gideriliyor. Ancak daha önemli eksiklik, aynı düzenlemenin kurumlar vergisinde olmaması. Öyle zannediyorum ki ilk fırsatta bu düzenleme de yapılacak ve uluslararası alanda şirketlerin alışık olduğu ve her ülkede aradıkları bu müessese bizim mevzuatımızda da bütün unsurlarıyla yer alacak.
+
+**Örtülü kazanç dağıtımı işlemlerinde indirilen KDV’nin düzeltilmemesi öngörülüyor**
+
+Kazancın tespitinde indirimi kabul edilmeyen giderler dolayısıyla ödenen katma değer vergisi indirim konusu yapılamıyor. Bu kural gereği, satın alınan mal ve hizmet bedelleri gelir veya kurum kazancının tespitinde indirim olarak dikkate alınamıyorsa, bunlara ilişkin ödenen KDV indirim konusu yapılamıyor.
+
+Kurumlar Vergisi Kanunu’nun 11. maddesinde, örtülü sermaye üzerinden ödenen veya hesaplanan faiz, kur farkı ve benzeri giderler ile transfer fiyatlandırması yoluyla örtülü olarak dağıtılan kazançların kurum kazancının tespitinde indirimi kabul edilmiyor.
+
+Örtülü kazanç dağıtımı ve örtülü sermaye olarak değerlendirilen işlemlerle ilgili yüklenilen KDV’nin yukarıda özetlenen düzenlemeler kapsamında indirim konusu yapılıp yapılamayacağı yıllarca tartışıldı ancak netleşmedi.
+
+15.07.2016 tarih ve 6728 sayılı Kanun'la yapılan düzenlemeyle, transfer fiyatlandırması yoluyla örtülü olarak dağıtılan kazançlara ilişkin ithalde veya sorumlu sıfatıyla ödenen katma değer vergisinin indirimine olanak sağlandı. Bu defa tasarıyla aynı maddede yeni bir değişiklik yapılıyor ve yurt içindeki işlemler için de indirim olanağı getiriliyor.
+
+Örtülü kazanç dağıtımına ilişkin sorun bu ikinci düzenlemeyle tamamen çözülüyor ancak örtülü sermaye sayılan işlemler nedeniyle yüklenilen KDV’nin indirimine ilişkin bir düzenleme ne yazık ki bu tasarıda da yok.
+
+**Adi ortaklıkların sermaye şirketine dönüşmesi işlemleri KDV’den istisna tutuluyor**
+
+Tasarıyla, adi ortaklıkların sermaye şirketine dönüşmesi işlemleri katma değer vergisi istisnası kapsamına alınıyor.
+
+Kişisel düşüncem, mevcut düzenleme çerçevesinde adi ortaklıkların sermaye şirketine dönüşmesi işlemleri zaten KDV’den istisna. Adi ortaklıklar ferdi işletme niteliğinde. Ferdi işletmelerin sermaye şirketlerine dönüşmesi işlemleri de KDV’den istisna. Gelir Vergisi Kanunu’nun 81. maddesinde, “ferdi işletmenin sahip veya sahipleri” ifadesi geçiyor. Birden fazla sahibi olan işletme adi ortaklıktan başkası değil. Bu niteliğiyle bu işletmelerin sermaye şirketine dönüşmesi işlemleri vergiden istisna. Bu anlamda tasarıyla yapılmak istenen düzenlemenin gereksiz olduğunu ve daha önce yapılan bu tür işlemler için gereksiz tereddüt ve risk yarattığını düşünüyorum.
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4NzkyNjUwMTJdfQ==
+-->
